@@ -1,0 +1,6 @@
+streamlit
+leafmap
+pandas
+requests
+streamlit-analytics2
+folium
