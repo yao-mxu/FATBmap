@@ -14,17 +14,17 @@ st.set_page_config(layout="wide")
 st.markdown("""
 <style>
 [data-testid="stSidebar"] {
-    background: transparent !important;
+    background: white !important;
 }
 [data-testid="stSidebar"] > div:first-child {
-    background: transparent !important;
+    background: white !important;
 }
 [data-testid="stSidebar"] h1 {
     color: #8B0000 !important;
     background: transparent !important;
 }
 [data-testid="stSidebar"] .stMarkdown {
-    background: transparent !important;
+    background: white !important;
     padding: 10px !important;
 }
 </style>
@@ -215,5 +215,5 @@ with streamlit_analytics.track():
 
     # Show source code
     with st.expander("See github repository"):
-        st.code(""" "https://raw.githubusercontent.com"
+        st.code(""" "https://github.com/yao-mxu/FATBmap"
         """, language="python")
