@@ -1,0 +1,324 @@
+{
+  "114 5th ave., redwood city 94063": {
+    "lat": 37.4790543,
+    "lon": -122.2002217,
+    "matched": "5th Avenue, Redwood City, San Mateo County, California, 94063, United States",
+    "query": "114 5th Ave., Redwood City 94063"
+  },
+  "1172 castro street, mountain view, ca 94040": {
+    "lat": 37.3819513,
+    "lon": -122.0867044,
+    "matched": "1172, Castro Street, Mountain View, Santa Clara County, California, 94040, United States",
+    "query": "1172 Castro Street, Mountain View, CA 94040"
+  },
+  "1199 welch road, palo alto, ca 94304": {
+    "lat": 37.4343004,
+    "lon": -122.177932,
+    "matched": "Marc & Laura Andreessen Emergency Department, 1199, Welch Road, Palo Alto, Santa Clara County, California, 94305, United States",
+    "query": "1199 Welch Road, Palo Alto, CA 94304"
+  },
+  "1298 kiefer rd, suite 515, sunnyvale, ca 94086": null,
+  "1302 n 4th street san jose, ca 95112": {
+    "lat": 37.3619837,
+    "lon": -121.904879,
+    "matched": "1302, North 4th Street, North San Jose, San Jose, Santa Clara County, California, 95112, United States",
+    "query": "1302 N 4th Street San Jose, CA 95112"
+  },
+  "1303 san carlos ave san carlos, california, 94070": {
+    "lat": 37.5056793,
+    "lon": -122.2622051,
+    "matched": "1303, San Carlos Avenue, San Carlos, San Mateo County, California, 94070, United States",
+    "query": "1303 San Carlos Ave San Carlos, California, 94070"
+  },
+  "1534 san andreas ave, san jose, ca 95118": {
+    "lat": 37.2717272,
+    "lon": -121.8983636,
+    "matched": "1534, San Andreas Avenue, San Jose, Santa Clara County, California, 95118, United States",
+    "query": "1534 San Andreas Ave, San Jose, CA 95118"
+  },
+  "1551 hamilton ave, san jose, ca 95125": {
+    "lat": 37.2946706,
+    "lon": -121.9114971,
+    "matched": "1551, Hamilton Avenue, Dry Creek, San Jose, Santa Clara County, California, 95125, United States",
+    "query": "1551 Hamilton Ave, San Jose, CA 95125"
+  },
+  "1575 old bayshore hwy, suite 201, burlingame, ca 94010": {
+    "lat": 37.5988794,
+    "lon": -122.3671107,
+    "matched": "1575, Old Bayshore Highway, Burlingame, San Mateo County, California, 94010, United States",
+    "query": "1575 Old Bayshore Hwy, Burlingame, CA 94010"
+  },
+  "1650 las plumas ave # k, san jose, ca 95133": {
+    "lat": 37.3612816,
+    "lon": -121.8659957,
+    "matched": "1650, Las Plumas Avenue, Little Portugal, San Jose, Santa Clara County, California, 95133, United States",
+    "query": "1650 Las Plumas Ave # K, San Jose, CA 95133"
+  },
+  "17060 monterey road morgan hill, ca 95037": {
+    "lat": 37.1258923,
+    "lon": -121.6508813,
+    "matched": "17060, Monterey Road, Morgan Hill, Santa Clara County, California, 95037, United States",
+    "query": "17060 Monterey Road Morgan Hill, CA 95037"
+  },
+  "1850 sullivan avenue, suite 150, daly city, ca 94015": {
+    "lat": 37.6809439,
+    "lon": -122.4737804,
+    "matched": "1850, Sullivan Avenue, Daly City, San Mateo County, California, 94015, United States",
+    "query": "1850 Sullivan Avenue, Daly City, CA 94015"
+  },
+  "19 w. 39th ave., san mateo 94403": {
+    "lat": 37.5325601,
+    "lon": -122.293227,
+    "matched": "19, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "19 W. 39th Ave., San Mateo 94403"
+  },
+  "199 southgate ave suite 3296 daly city, ca 94015": {
+    "lat": 37.697197,
+    "lon": -122.484259,
+    "matched": "199, Southgate Avenue, Westlake, Daly City, San Mateo County, California, 94015, United States",
+    "query": "199 southgate ave daly city, CA 94015"
+  },
+  "200 james avenue, redwood city, ca 94062": {
+    "lat": 37.483,
+    "lon": -122.2352813,
+    "matched": "Sequoia Teen Wellness Center, 200, James Avenue, Redwood City, San Mateo County, California, 94062, United States",
+    "query": "200 James Avenue, Redwood City, CA 94062"
+  },
+  "2000 alameda de las pulgas, suite 200, san mateo ca 94403": {
+    "lat": 37.545389,
+    "lon": -122.320744,
+    "matched": "2000, Alameda de las Pulgas, Hayward Park, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "2000 Alameda de las Pulgas, San Mateo CA 94403"
+  },
+  "2211 palm avenue san mateo, ca 94403": {
+    "lat": 37.5474057,
+    "lon": -122.3066106,
+    "matched": "2211, Palm Avenue, Hayward Park, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "2211 Palm Avenue San Mateo, CA 94403"
+  },
+  "2215 el camino real, ste. 204, san mateo, ca, 94403": {
+    "lat": 37.4759823,
+    "lon": -122.2204267,
+    "matched": "Chevron, 2215, El Camino Real, Redwood Junction, Redwood City, San Mateo County, California, 94063, United States",
+    "query": "2215 El Camino Real, San Mateo, CA, 94403"
+  },
+  "2218 n 1st street, san jose, ca 95131": {
+    "lat": 37.3780037,
+    "lon": -121.9204029,
+    "matched": "2218, North 1st Street, North San Jose, San Jose, Santa Clara County, California, 95131, United States",
+    "query": "2218 N 1st Street, San Jose, CA 95131"
+  },
+  "222 w 39th ave, san mateo, ca 94403": {
+    "lat": 37.5309039,
+    "lon": -122.3002086,
+    "matched": "San Mateo Medical Center, 222, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "222 W 39th Ave, San Mateo, CA 94403"
+  },
+  "222 west 39th avenue, first floor, san mateo, ca 94403": {
+    "lat": 37.5309039,
+    "lon": -122.3002086,
+    "matched": "San Mateo Medical Center, 222, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "222 West 39th Avenue, San Mateo, CA 94403"
+  },
+  "222 west 39th avenue, san mateo, ca 94403": {
+    "lat": 37.5309039,
+    "lon": -122.3002086,
+    "matched": "San Mateo Medical Center, 222, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "222 West 39th Avenue, San Mateo, CA 94403"
+  },
+  "222 west 39th avenue, second floor, san mateo, ca 94403": {
+    "lat": 37.5309039,
+    "lon": -122.3002086,
+    "matched": "San Mateo Medical Center, 222, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "222 West 39th Avenue, San Mateo, CA 94403"
+  },
+  "222 west 39th avenue, third floor, san mateo, ca 94403": {
+    "lat": 37.5309039,
+    "lon": -122.3002086,
+    "matched": "San Mateo Medical Center, 222, West 39th Avenue, Laurel, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "222 West 39th Avenue, San Mateo, CA 94403"
+  },
+  "2221 enborg lane, building j, san jose, ca 95128": {
+    "lat": 37.3111115,
+    "lon": -121.9382165,
+    "matched": "2221, Enborg Lane, Buena Vista, San Jose, Santa Clara County, California, 95128, United States",
+    "query": "2221 Enborg Lane, San Jose, CA 95128"
+  },
+  "225 37th avenue, san mateo, ca, 94403": {
+    "lat": 37.5321625,
+    "lon": -122.2996724,
+    "matched": "225, 37th Avenue, Hillsdale, San Mateo, San Mateo County, California, 94403, United States",
+    "query": "225 37th Avenue, San Mateo, CA, 94403"
+  },
+  "225 south cabrillo highway, half moon bay, ca 94019": {
+    "lat": 37.4648981,
+    "lon": -122.4331875,
+    "matched": "225, Cabrillo Highway South, Half Moon Bay, San Mateo County, California, 94019, United States",
+    "query": "225 South Cabrillo Highway, Half Moon Bay, CA 94019"
+  },
+  "225 south cabrillo highway, suite 100a, half moon bay, ca 94019": {
+    "lat": 37.4648981,
+    "lon": -122.4331875,
+    "matched": "225, Cabrillo Highway South, Half Moon Bay, San Mateo County, California, 94019, United States",
+    "query": "225 South Cabrillo Highway, Half Moon Bay, CA 94019"
+  },
+  "232 e. gish rd. san jose, ca 95112": {
+    "lat": 37.3638444,
+    "lon": -121.9049113,
+    "matched": "Uplift Family Services, 232, East Gish Road, North San Jose, San Jose, Santa Clara County, California, 95112, United States",
+    "query": "232 E. Gish Rd. San Jose, CA 95112"
+  },
+  "2542 s. bascom ave, suite 100, campbell, ca 95008": {
+    "lat": 37.2760587,
+    "lon": -121.9322563,
+    "matched": "2542, South Bascom Avenue, Campbell, Santa Clara County, California, 95008, United States",
+    "query": "2542 S. Bascom Ave, Campbell, CA 95008"
+  },
+  "260 escuela ave. mountain view, ca 94040": {
+    "lat": 37.3993898,
+    "lon": -122.0953493,
+    "matched": "Learning Links Preschool Mountain View, 260, Escuela Avenue, Mountain View, Santa Clara County, California, 94040, United States",
+    "query": "260 Escuela Ave. Mountain View, CA 94040"
+  },
+  "2600 middlefield rd, redwood city, ca 94063": {
+    "lat": 37.4773147,
+    "lon": -122.2131162,
+    "matched": "Fair Oaks Community Center, 2600, Middlefield Road, Redwood Junction, Redwood City, San Mateo County, California, 94063, United States",
+    "query": "2600 Middlefield Rd, Redwood City, CA 94063"
+  },
+  "2600 south el camino drive, suite 300, san mateo, ca 94403": null,
+  "2710 middlefield road, redwood city, ca 94063": {
+    "lat": 37.4807184,
+    "lon": -122.2184079,
+    "matched": "Middlefield Road, Redwood Junction, Redwood City, San Mateo County, California, 94063, United States",
+    "query": "2710 Middlefield Road, Redwood City, CA 94063"
+  },
+  "2741 middlefield road, suite 102, palo alto, ca 94306": {
+    "lat": 37.4333125,
+    "lon": -122.128846,
+    "matched": "allcove Palo Alto, 2741, Middlefield Road, Midtown, Palo Alto, Santa Clara County, California, 94303, United States",
+    "query": "2741 Middlefield Road, Palo Alto, CA 94306"
+  },
+  "2741 middlefield road, suite 102, palo alto, ca, 94306": {
+    "lat": 37.4333125,
+    "lon": -122.128846,
+    "matched": "allcove Palo Alto, 2741, Middlefield Road, Midtown, Palo Alto, Santa Clara County, California, 94303, United States",
+    "query": "2741 Middlefield Road, Palo Alto, CA, 94306"
+  },
+  "300 pasteur dr, stanford, ca 94305": {
+    "lat": 37.4326911,
+    "lon": -122.1755409,
+    "matched": "Lane Medical Library, 300, Pasteur Drive, Palo Alto, Santa Clara County, California, 94305, United States",
+    "query": "300 Pasteur Dr, Stanford, CA 94305"
+  },
+  "306 spruce avenue, south san francisco, ca 94080": {
+    "lat": 37.6565913,
+    "lon": -122.4158843,
+    "matched": "306, Spruce Avenue, South San Francisco, San Mateo County, California, 94080, United States",
+    "query": "306 Spruce Avenue, South San Francisco, CA 94080"
+  },
+  "350 90th street, 3rd floor, daly city, ca 94015": {
+    "lat": 37.6911884,
+    "lon": -122.473362,
+    "matched": "350, 90th Street, Westlake, Daly City, San Mateo County, California, 94015, United States",
+    "query": "350 90th Street, Daly City, CA 94015"
+  },
+  "355 gellert blvd ste 152 daly city, ca 94015": {
+    "lat": 37.6662387,
+    "lon": -122.4686228,
+    "matched": "355, Gellert Boulevard, Serramonte, Daly City, San Mateo County, California, 94015, United States",
+    "query": "355 GELLERT BLVD DALY CITY, CA 94015"
+  },
+  "375 s. third st. san jose, ca 95112": null,
+  "380 90th st daly city, ca 94015": {
+    "lat": 37.6911853,
+    "lon": -122.473962,
+    "matched": "380, 90th Street, Westlake, Daly City, San Mateo County, California, 94015, United States",
+    "query": "380 90TH ST DALY CITY, CA 94015"
+  },
+  "380 90th street, daly city, ca 94015": {
+    "lat": 37.6911853,
+    "lon": -122.473962,
+    "matched": "380, 90th Street, Westlake, Daly City, San Mateo County, California, 94015, United States",
+    "query": "380 90th Street, Daly City, CA 94015"
+  },
+  "457 kingsley ave, palo alto, ca 94301": {
+    "lat": 37.4426874,
+    "lon": -122.1512611,
+    "matched": "Westminster House, 457, Kingsley Avenue, Professorville, Palo Alto, Santa Clara County, California, 94301, United States",
+    "query": "457 Kingsley Ave, Palo Alto, CA 94301"
+  },
+  "482 w san carlos st, san jose, ca 95126": {
+    "lat": 37.3259386,
+    "lon": -121.897711,
+    "matched": "482, West San Carlos Street, Buena Vista, San Jose, Santa Clara County, California, 95126, United States",
+    "query": "482 W San Carlos St, San Jose, CA 95126"
+  },
+  "499 loma alta ave. los gatos, ca 95030": {
+    "lat": 37.2176741,
+    "lon": -121.9656552,
+    "matched": "Uplift Family Services, 499, Loma Alta Avenue, Creekside Village, Los Gatos, Santa Clara County, California, 95030, United States",
+    "query": "499 Loma Alta Ave. Los Gatos, CA 95030"
+  },
+  "500 allerton street, redwood city, ca 94063": {
+    "lat": 37.4888062,
+    "lon": -122.231489,
+    "matched": "500, Allerton Street, Redwood City, San Mateo County, California, 94063, United States",
+    "query": "500 Allerton Street, Redwood City, CA 94063"
+  },
+  "535 kelly avenue, half moon bay, ca, 94019": {
+    "lat": 37.4641827,
+    "lon": -122.4349505,
+    "matched": "Kelly Avenue, Half Moon Bay, San Mateo County, California, 94019, United States",
+    "query": "535 Kelly Avenue, Half Moon Bay, CA, 94019"
+  },
+  "5883 rue ferrari, suite 125, san jose ca 95138": {
+    "lat": 37.2484637,
+    "lon": -121.7767626,
+    "matched": "5883, Rue Ferrari, San Jose, Santa Clara County, California, 95138, United States",
+    "query": "5883 Rue Ferrari, San Jose CA 95138"
+  },
+  "590 w. el camino real, mountain view ca 94040": {
+    "lat": 37.3848217,
+    "lon": -122.081418,
+    "matched": "Community Health Awareness Council, 590, West El Camino Real, Mountain View, Santa Clara County, California, 94040, United States",
+    "query": "590 W. El Camino Real, Mountain View CA 94040"
+  },
+  "6273 mission st ste 101 daly city, ca 94014": {
+    "lat": 37.7060994,
+    "lon": -122.4605499,
+    "matched": "6273, Mission Street, Top of the Hill, Daly City, San Mateo County, California, 94014, United States",
+    "query": "6273 MISSION ST DALY CITY, CA 94014"
+  },
+  "660 s fair oaks ave, sunnyvale, ca 94086": {
+    "lat": 37.3648776,
+    "lon": -122.0234805,
+    "matched": "Valley Health Center Sunnyvale, 660, South Fair Oaks Avenue, Sunnyvale, Santa Clara County, California, 94086, United States",
+    "query": "660 S Fair Oaks Ave, Sunnyvale, CA 94086"
+  },
+  "6740 mission st daly city, ca 94014": {
+    "lat": 37.7004541,
+    "lon": -122.4638143,
+    "matched": "6740, Mission Street, Daly City, San Mateo County, California, 94014, United States",
+    "query": "6740 MISSION ST DALY CITY, CA 94014"
+  },
+  "7119 mission st daly city, ca 94014": {
+    "lat": 37.6942426,
+    "lon": -122.4650235,
+    "matched": "7119, Mission Street, Daly City, San Mateo County, California, 94014, United States",
+    "query": "7119 MISSION ST DALY CITY, CA 94014"
+  },
+  "900 quarry road extension, palo alto, ca 94304": {
+    "lat": 37.4340434,
+    "lon": -122.174603,
+    "matched": "Pediatric Emergency Department, 900, Quarry Road Extension, Palo Alto, Santa Clara County, California, 94305, United States",
+    "query": "900 Quarry Road Extension, Palo Alto, CA 94304"
+  },
+  "901 campus dr ste 304 daly city, ca 94015": {
+    "lat": 37.6652306,
+    "lon": -122.4756243,
+    "matched": "Physicians Medical Center, 901, Campus Drive, Serramonte, Daly City, San Mateo County, California, 94015, United States",
+    "query": "901 CAMPUS DR DALY CITY, CA 94015"
+  },
+  "miller ave & maple ave, public parking lot #7, south san francisco, ca 94080": null
+}
